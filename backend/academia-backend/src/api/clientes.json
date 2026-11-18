@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nome": "Guilherme",
+    "email": "guilherme@email.com",
+    "telefone": "(38) 96767-6767",
+    "cidade": "Diamantina",
+    "estado": "MG"
+  },
+  {
+    "id": 2,
+    "nome": "Igor",
+    "email": "igor@email.com",
+    "telefone": "(38) 96767-6768",
+    "cidade": "Belo Horizonte",
+    "estado": "MG"
+  }
+]
